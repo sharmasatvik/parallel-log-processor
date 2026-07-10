@@ -1,12 +1,12 @@
-package com.satvik.logprocessor;
+package com.logprocessor;
 
-import com.satvik.logprocessor.aggregator.ResultAggregator;
-import com.satvik.logprocessor.analyzer.ChunkAnalyzer;
-import com.satvik.logprocessor.chunker.FileChunker;
-import com.satvik.logprocessor.model.AggregatedResult;
-import com.satvik.logprocessor.model.ChunkResult;
-import com.satvik.logprocessor.model.FileChunk;
-import com.satvik.logprocessor.processor.LogProcessor;
+import com.logprocessor.aggregator.ResultAggregator;
+import com.logprocessor.analyzer.ChunkAnalyzer;
+import com.logprocessor.chunker.FileChunker;
+import com.logprocessor.model.AggregatedResult;
+import com.logprocessor.model.ChunkResult;
+import com.logprocessor.model.FileChunk;
+import com.logprocessor.processor.LogProcessor;
 
 import java.io.IOException;
 import java.util.ArrayList;

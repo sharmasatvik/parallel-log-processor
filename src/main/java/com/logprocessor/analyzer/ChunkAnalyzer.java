@@ -1,7 +1,7 @@
-package com.satvik.logprocessor.analyzer;
+package com.logprocessor.analyzer;
 
-import com.satvik.logprocessor.model.ChunkResult;
-import com.satvik.logprocessor.model.FileChunk;
+import com.logprocessor.model.ChunkResult;
+import com.logprocessor.model.FileChunk;
 
 import java.io.IOException;
 import java.io.RandomAccessFile;

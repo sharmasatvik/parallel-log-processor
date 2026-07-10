@@ -1,4 +1,4 @@
-package com.satvik.logprocessor.model;
+package com.logprocessor.model;
 
 /**
  * Represents a byte-range slice of a file to be processed independently.

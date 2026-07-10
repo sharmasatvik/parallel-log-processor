@@ -1,9 +1,9 @@
-package com.satvik.logprocessor.processor;
+package com.logprocessor.processor;
 
-import com.satvik.logprocessor.analyzer.ChunkAnalyzer;
-import com.satvik.logprocessor.chunker.FileChunker;
-import com.satvik.logprocessor.model.ChunkResult;
-import com.satvik.logprocessor.model.FileChunk;
+import com.logprocessor.analyzer.ChunkAnalyzer;
+import com.logprocessor.chunker.FileChunker;
+import com.logprocessor.model.ChunkResult;
+import com.logprocessor.model.FileChunk;
 
 import java.io.IOException;
 import java.io.UncheckedIOException;
