@@ -32,7 +32,7 @@ public class ChunkAnalyzer {
      * @return A chunk result containing line count, error count, and word frequencies.
      */
     public ChunkResult analyze(String filePath, FileChunk chunk) throws IOException {
-        long lineCount = 0;
+        long lineCount;
         long errorCount = 0;
         Map<String, Long> wordFreq = new HashMap<>();
 
