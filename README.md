@@ -77,7 +77,7 @@ mvn clean package
 Generate a sample log file (optional, for testing):
 
 ```bash
-java -cp target/classes com.satvik.logprocessor.util.SampleLogGenerator sample.log 500000
+java -cp target/classes com.logprocessor.util.SampleLogGenerator sample.log 500000
 ```
 
 Run:
