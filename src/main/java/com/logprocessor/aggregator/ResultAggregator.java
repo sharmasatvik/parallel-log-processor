@@ -1,7 +1,7 @@
-package com.satvik.logprocessor.aggregator;
+package com.logprocessor.aggregator;
 
-import com.satvik.logprocessor.model.AggregatedResult;
-import com.satvik.logprocessor.model.ChunkResult;
+import com.logprocessor.model.AggregatedResult;
+import com.logprocessor.model.ChunkResult;
 
 import java.util.*;
 

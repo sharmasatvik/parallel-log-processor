@@ -1,4 +1,4 @@
-package com.satvik.logprocessor.model;
+package com.logprocessor.model;
 
 import java.util.Map;
 

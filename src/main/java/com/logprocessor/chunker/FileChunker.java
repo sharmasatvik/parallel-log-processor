@@ -1,6 +1,6 @@
-package com.satvik.logprocessor.chunker;
+package com.logprocessor.chunker;
 
-import com.satvik.logprocessor.model.FileChunk;
+import com.logprocessor.model.FileChunk;
 
 import java.io.IOException;
 import java.io.RandomAccessFile;
